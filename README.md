@@ -9,3 +9,5 @@ con config modificado
 nueva prueba
 
 nuevo cambio desde vs code
+
+nueva prueba desde cursor
